@@ -7,6 +7,7 @@ public class Run {
 		
 		System.out.println("Hello GIT!");
 
+		System.out.println("Test 1");
 	}
 
 }
